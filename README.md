@@ -21,13 +21,14 @@ GitHub: Tailwind CSS
 6. Styled-components
 Descrição: Uma biblioteca para estilização de componentes no JavaScript usando tagged template literals.
 GitHub: Styled-components
+
 Utilitários
-7. Axios
+8. Axios
 Descrição: Uma biblioteca para fazer solicitações HTTP com facilidade.
 GitHub: Axios
-8. Lodash
+9. Lodash
 Descrição: Uma biblioteca de utilitários JavaScript que simplifica tarefas comuns de programação.
 GitHub: Lodash
-9. Moment.js
+10. Moment.js
 Descrição: Uma biblioteca para manipulação de datas e horas em JavaScript.
 GitHub: Moment.js
